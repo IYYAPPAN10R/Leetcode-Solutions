@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 ## Two Pointers
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0812-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
