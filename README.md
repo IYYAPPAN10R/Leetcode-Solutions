@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 ## Two Pointers
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
