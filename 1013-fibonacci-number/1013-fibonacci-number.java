@@ -1,17 +1,16 @@
 class Solution {
+    public int dp[];
+    public int helper(int n){
+        if(n<=1){
+            return n;
+        }
+        
+        dp[n] = helper(n-1) + helper(n-2);
+        return dp[n];
+    }
     public int fib(int n) {
-        int[] a = new int[n+1];
-        if(n <= 0){
-            return 0;
-        }
-        if(n == 1){
-            return 1;
-        }
-        a[0] = 0;
-        a[1] = 1;
-        for(int i = 2;i<=n;i++){
-            a[i] = a[i-1]+a[i-2];
-        }
-        return a[n];
+        dp = new int[n+1];
+        Arrays.fill(dp,-1);
+        return helper(n);
     }
 }
