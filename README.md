@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0941-sort-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 ## Array
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
