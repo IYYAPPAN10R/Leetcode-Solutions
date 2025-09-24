@@ -1,33 +1,24 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] can, int target) {
-        List<List<Integer>> a = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(can);
-        fun(can , target , a , 0 ,new ArrayList<>());
-        return a;
+        backtrack(can, target, 0, new ArrayList<>(), result);
+        return result;
     }
-    public void fun(int[] num , int target , List<List<Integer>> a ,int index,List<Integer> temp){
-        int sum = Sum(temp);
-        if(sum > target){
-            return;
-        }
-        if(index >= num.length){
-            return;
-        }
-        if(sum == target){
-            a.add(new ArrayList<>(temp));
+
+    private void backtrack(int[] can, int remain, int start, List<Integer> temp, List<List<Integer>> result) {
+        if (remain == 0) {
+            result.add(new ArrayList<>(temp));
             return;
         }
 
-        temp.add(num[index]);
-        fun(num,target,a,index,temp);
-        temp.remove(temp.size()-1);
-        fun(num,target,a,index+1,temp);
-    }
-    public int Sum(List<Integer> list){
-        int sum = 0;
-        for(int n : list){
-            sum += n; 
+        for (int i = start; i < can.length; i++) {
+            if (can[i] > remain) {
+                break;
+            }
+            temp.add(can[i]);
+            backtrack(can, remain - can[i], i, temp, result);
+            temp.remove(temp.size() - 1);
         }
-        return sum;
     }
 }
