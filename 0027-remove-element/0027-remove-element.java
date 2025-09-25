@@ -1,20 +1,17 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        HashMap<Integer,Integer> a = new HashMap<>();
-        for(int num : nums){
-            a.put(num,a.getOrDefault(num,0)+1);
+        int[] a = new int[nums.length];
+        for(int i = 0;i<nums.length;i++){
+            a[i] = nums[i];
         }
-        int i = 0;
-        for(int num :nums){
-            if(a.containsKey(num) && num == val){ 
-                a.remove(num);
-            }
-            else if(num != val){
-                nums[i] = num;
-                i++; 
+        int j = 0;
+        for(int num : a){
+            if(num != val){
+                nums[j] = num;
+                j++;
             }
         }
-        return i;
+        return j;
         
     }
 }
