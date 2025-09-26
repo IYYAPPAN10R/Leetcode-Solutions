@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Bit Manipulation
 |  |
@@ -139,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
