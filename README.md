@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 ## Two Pointers
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 ## Dynamic Programming
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 ## Math
