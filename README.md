@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-minimum-distance-to-the-target-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
+| [3637-trionic-array-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
