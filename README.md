@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0091-decode-ways](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
