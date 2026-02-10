@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0371-sum-of-two-integers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
