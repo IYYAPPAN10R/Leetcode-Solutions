@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3637-trionic-array-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
