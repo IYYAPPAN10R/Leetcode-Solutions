@@ -206,4 +206,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
