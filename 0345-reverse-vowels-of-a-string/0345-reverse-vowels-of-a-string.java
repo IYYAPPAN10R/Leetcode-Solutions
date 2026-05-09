@@ -11,17 +11,26 @@ class Solution {
         a.add('i');
         a.add('o');
         a.add('u');
-        ArrayList<Character> b = new ArrayList<>();
-        for(int i = 0;i<s.length();i++){
-            if(a.contains(s.charAt(i)))
-                b.add(s.charAt(i));
-        }
-        Collections.reverse(b);
         char[] S = s.toCharArray();
-        int index = 0;
-        for(int i = 0;i<s.length();i++){
-            if(a.contains(s.charAt(i)))
-                S[i] = b.get(index++);
+        int left = 0;
+        int right = s.length()-1;
+        while(left<right){
+            if(a.contains(S[left]) && a.contains(S[right])){
+                char temp = S[left];
+                S[left] = S[right];
+                S[right] = temp;
+                left++;
+                right--;
+            }
+            else if(a.contains(S[left]))
+                right--;
+            else if(a.contains(S[right])){
+                left++;
+            }
+            else{
+                right--;
+                left++;
+            }
         }
         return new String(S);
     }
