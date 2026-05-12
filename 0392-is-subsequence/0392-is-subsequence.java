@@ -7,12 +7,12 @@ class Solution {
             if(s.charAt(i) == t.charAt(j)){
                 i++;
                 j++;
+                if(i == s.length()) return true;
             }
             else{
                 j++;
             }
         }
-        if(i != s.length()) return false;
-        return true;
+        return false;
     }
 }
