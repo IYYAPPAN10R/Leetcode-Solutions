@@ -16,6 +16,7 @@ class Solution {
             if(a.contains(s.charAt(i-k))) current--;
             if(a.contains(s.charAt(i)))   current++;
             max = Math.max(max,current);
+            if(max == k) return max;
         }
         return max;
     }
