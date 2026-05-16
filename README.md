@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1137-height-checker) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
