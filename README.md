@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
