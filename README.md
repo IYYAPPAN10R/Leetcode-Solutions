@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Array
 |  |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
