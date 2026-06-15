@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0645-set-mismatch) |
