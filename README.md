@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -185,11 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2352-equal-row-and-column-pairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
