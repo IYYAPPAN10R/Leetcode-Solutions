@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1505-create-target-array-in-the-given-order](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2352-equal-row-and-column-pairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Depth-First Search
 |  |
