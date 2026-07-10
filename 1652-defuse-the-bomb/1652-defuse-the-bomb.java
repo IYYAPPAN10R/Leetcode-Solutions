@@ -16,7 +16,7 @@ class Solution {
                 int temp = 0;
                 int len =  i;
                 for(int j = 0;j<-k;j++){
-                    if(len <= 0){
+                    if(len == 0){
                         len = code.length-1;
                         temp += code[len];
                     }
