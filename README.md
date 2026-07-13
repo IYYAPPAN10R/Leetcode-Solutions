@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
