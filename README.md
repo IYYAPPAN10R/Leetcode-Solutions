@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2000-reverse-prefix-of-word](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2390-removing-stars-from-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Array
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [2000-reverse-prefix-of-word](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
