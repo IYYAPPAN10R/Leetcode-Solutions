@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Array
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Counting Sort
 |  |
 | ------- |
