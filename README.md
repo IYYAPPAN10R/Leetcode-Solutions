@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1341-movie-rating](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1341-movie-rating) |
 | [1757-recyclable-and-low-fat-products](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Greedy
