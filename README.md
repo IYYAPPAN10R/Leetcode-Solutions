@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0941-sort-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0953-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
