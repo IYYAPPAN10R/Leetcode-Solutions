@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0782-jewels-and-stones](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1013-fibonacci-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 ## Stack
