@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0371-sum-of-two-integers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -387,12 +389,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Heap (Priority Queue)
@@ -407,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
