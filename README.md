@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Heap (Priority Queue)
