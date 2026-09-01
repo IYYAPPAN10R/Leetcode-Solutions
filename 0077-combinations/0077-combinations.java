@@ -6,7 +6,7 @@ class Solution {
         }
         if(index>num.length-1){
             return;
-        }
+        }  
         temp.add(num[index]);
         sub(result, num , index+1 , temp,k);
         temp.remove(temp.size()-1);
