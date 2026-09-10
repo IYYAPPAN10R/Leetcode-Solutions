@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2390-removing-stars-from-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2938-separate-black-and-white-balls](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2938-separate-black-and-white-balls](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Array
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2938-separate-black-and-white-balls](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
 | ------- |
