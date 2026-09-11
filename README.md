@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
+| [3978-unique-middle-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3978-unique-middle-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3978-unique-middle-element) |
 ## Math
 |  |
 | ------- |
