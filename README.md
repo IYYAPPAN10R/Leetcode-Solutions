@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
+| [2974-minimum-number-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2974-minimum-number-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting Sort
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2974-minimum-number-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 ## Rolling Hash
 |  |
 | ------- |
