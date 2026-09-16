@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [1004-max-consecutive-ones-iii](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2938-separate-black-and-white-balls](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
