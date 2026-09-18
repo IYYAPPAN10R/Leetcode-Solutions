@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Recursion
 |  |
 | ------- |
