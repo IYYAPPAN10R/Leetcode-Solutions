@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2390-removing-stars-from-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2938-separate-black-and-white-balls](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2418-sort-the-people](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2486-most-frequent-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2486-most-frequent-even-element) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2418-sort-the-people](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2974-minimum-number-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
