@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2418-sort-the-people) |
 | [2938-separate-black-and-white-balls](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2938-separate-black-and-white-balls) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Two Pointers
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Recursion
