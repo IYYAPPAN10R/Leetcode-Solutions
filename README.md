@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
