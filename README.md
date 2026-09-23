@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3668-restore-finishing-order](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3637-trionic-array-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3978-unique-middle-element) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
