@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3285-find-indices-of-stable-mountains](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
