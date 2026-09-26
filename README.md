@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3151-special-array-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
