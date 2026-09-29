@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3866-first-unique-even-element) |
 | [3978-unique-middle-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3978-unique-middle-element) |
+| [4020-elevator-requests-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [4020-elevator-requests-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/4020-elevator-requests-i) |
 ## Recursion
 |  |
 | ------- |
