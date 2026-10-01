@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
@@ -545,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/IYYAPPAN10R/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
